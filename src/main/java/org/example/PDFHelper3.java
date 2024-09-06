@@ -6,6 +6,9 @@ import com.aspose.pdf.SaveFormat;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+/**
+ * @author pdf转word
+ */
 public class PDFHelper3 {
 
     public static void main(String[] args) throws IOException {

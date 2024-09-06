@@ -12,7 +12,8 @@
 //
 ///**
 // * @date 2022-05-16
-// * @user tarzan
+// * @user hqh
+// * @author 破解类
 // */
 //public class PDFJarCrack {
 //
